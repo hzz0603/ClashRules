@@ -1,4 +1,0 @@
-payload:
-  -  DST-PORT,22
-  -  IN-PORT,22
-  -  SRC-PORT,22
